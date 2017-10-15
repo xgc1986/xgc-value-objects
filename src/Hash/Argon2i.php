@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace XgcValueObject\ValueObject\Hash;
+namespace XgcValueObject\Hash;
 
 use XgcValueObject\Exception\InvalidPhpValueObjectException;
 
