@@ -1,0 +1,9 @@
+/vendor/
+/bin/
+!/bin/console
+.guard_coverage
+.web-server-pid
+/.idea
+/build
+.~
+.DS_Store
