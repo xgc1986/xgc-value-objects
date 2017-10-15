@@ -9,7 +9,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "XgcValueObjects\\": "src/"
+      "XgcValueObject\\": "src/"
     }
   },
   "autoload-dev": {
